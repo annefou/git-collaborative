@@ -46,7 +46,7 @@ Features:
 - Typically all developers have both read and write permissions (double-headed arrows).
 - Suited for cases where all developers are in the same group or organization etc.
 - Code review workflow is possible.
-- Code review can be coupled with with automated testing.
+- Code review can be coupled with automated testing.
 
 Advantages:
 
